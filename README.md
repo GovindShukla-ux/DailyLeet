@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/GovindShukla-ux/DailyLeet/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/GovindShukla-ux/DailyLeet/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/GovindShukla-ux/DailyLeet/tree/master/0006-zigzag-conversion) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/GovindShukla-ux/DailyLeet/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 <!---LeetCode Topics End-->
