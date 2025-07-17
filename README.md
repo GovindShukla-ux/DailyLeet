@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/GovindShukla-ux/DailyLeet/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/GovindShukla-ux/DailyLeet/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/GovindShukla-ux/DailyLeet/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/GovindShukla-ux/DailyLeet/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/GovindShukla-ux/DailyLeet/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Database
 |  |
 | ------- |
