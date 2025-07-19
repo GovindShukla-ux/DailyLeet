@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/GovindShukla-ux/DailyLeet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/GovindShukla-ux/DailyLeet/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/GovindShukla-ux/DailyLeet/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/GovindShukla-ux/DailyLeet/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/GovindShukla-ux/DailyLeet/tree/master/0006-zigzag-conversion) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/GovindShukla-ux/DailyLeet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/GovindShukla-ux/DailyLeet/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/GovindShukla-ux/DailyLeet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Trie
+|  |
+| ------- |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/GovindShukla-ux/DailyLeet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 <!---LeetCode Topics End-->
