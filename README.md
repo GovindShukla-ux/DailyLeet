@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/GovindShukla-ux/DailyLeet/tree/master/0012-integer-to-roman) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/GovindShukla-ux/DailyLeet/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Counting
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/GovindShukla-ux/DailyLeet/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/GovindShukla-ux/DailyLeet/tree/master/0012-integer-to-roman) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/GovindShukla-ux/DailyLeet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Dynamic Programming
 |  |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/GovindShukla-ux/DailyLeet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/GovindShukla-ux/DailyLeet/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
