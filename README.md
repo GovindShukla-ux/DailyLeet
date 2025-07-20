@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/GovindShukla-ux/DailyLeet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/GovindShukla-ux/DailyLeet/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/GovindShukla-ux/DailyLeet/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/GovindShukla-ux/DailyLeet/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/GovindShukla-ux/DailyLeet/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/GovindShukla-ux/DailyLeet/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/GovindShukla-ux/DailyLeet/tree/master/0012-integer-to-roman) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/GovindShukla-ux/DailyLeet/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/GovindShukla-ux/DailyLeet/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Counting
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/GovindShukla-ux/DailyLeet/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/GovindShukla-ux/DailyLeet/tree/master/0012-integer-to-roman) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/GovindShukla-ux/DailyLeet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/GovindShukla-ux/DailyLeet/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,8 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/GovindShukla-ux/DailyLeet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/GovindShukla-ux/DailyLeet/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/GovindShukla-ux/DailyLeet/tree/master/0012-integer-to-roman) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/GovindShukla-ux/DailyLeet/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
