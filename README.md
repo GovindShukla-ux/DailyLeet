@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/GovindShukla-ux/DailyLeet/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/GovindShukla-ux/DailyLeet/tree/master/0012-integer-to-roman) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/GovindShukla-ux/DailyLeet/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/GovindShukla-ux/DailyLeet/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/GovindShukla-ux/DailyLeet/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Dynamic Programming
